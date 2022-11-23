@@ -1,5 +1,2 @@
-<http>
-<boby>
-<img style=" display: block;-webkit-user-select: none;;background-color: hsl(10%0, 100%, 100%);" src="https://i.giphy.com/22oH1DnFRKzWG1EKTZ.gif">
-</body>
-</http>
+<div style="background-color:black;width:100%;"><p style="text-align:center"><img src="https://i.giphy.com/22oH1DnFRKzWG1EKTZ.gif" width="70%" height="50%" style= frameBorder="0" ></p>
+</div>
