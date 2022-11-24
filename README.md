@@ -1,4 +1,6 @@
-<h1 align="center"><div style="width:70%;height:0;padding-bottom:33%;position:relative;"><img src="https://i.giphy.com/media/6cLFQuLOS1R4Tb4Vbj/giphy.webp" width="70%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://github.com/Joao-J/Joao-J"></p></h1>
+
+![Sejam todos bem-vindos ao meu github](https://user-images.githubusercontent.com/118869806/203854108-0826d341-0512-4363-9782-39f74b8b6e9b.gif)
+<HR>
 
 <p align="left">  </p>
 
