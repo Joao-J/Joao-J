@@ -4,13 +4,13 @@
 
 - 🌱 Estou aprendendo **Java, Python e C#**
 
-- 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/Joao-J](https://github.com/Joao-J)
+- 👨‍💻 Todos meus projetos estão disponiveis [aqui](https://github.com/Joao-J)
 
-- 📝 Escrevendo no blog [https://www.tumblr.com/codando-e-vivendo](https://www.tumblr.com/codando-e-vivendo)
+- 📝 Escrevendo no [blog do tumblr](https://www.tumblr.com/codando-e-vivendo)
 
-- 📫 Como me contatar **joaovitor19.gbi@gmail.com**
+- 📫 Como me contatar [**gmail**](joaovitor19.gbi@gmail.com)
 
-- 📄 Minhas experiencias profissionais [https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus-22a6761a9/](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus-22a6761a9/)
+- 📄 Minhas experiencias profissionais [aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus-22a6761a9/)
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
