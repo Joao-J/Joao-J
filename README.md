@@ -11,7 +11,7 @@
 
 - 📫 Meu email eletrônico [**gmail**](joaovitor19.gbi@gmail.com)
 
-- 📄 Minhas experiencias profissionais [aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus-22a6761a9/)
+- 📄 Minhas experiencias profissionais [aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus/)
 
 ##
 
@@ -42,7 +42,7 @@
    
  <h3 align="center">REDES SOCIAIS:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/joão vitor de jesus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor de jesus" height="30" width="40" /></a><B><I> LINKEDIN    
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor de jesus" height="30" width="40" /></a><B><I> LINKEDIN    
 <a href="https://instagram.com/joao.vitor.gbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.vitor.gbi" height="30" width="40" /></a> INSTRAGRAM  
 </p> 
 
