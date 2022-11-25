@@ -14,7 +14,15 @@
 - 📄 Minhas experiencias profissionais [aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus-22a6761a9/)
 
 ##
-🚧 ***CURSOS EM DESENVOLVIMENTO***🚧
+🚧  ***CURSOS EM DESENVOLVIMENTO***  🚧
+
+######***JAVA 2022 ➡️ UDEMY (EM PROGRESSO)***
+######***PYTHON 2022 ➡️ UDEMY (EM PROGRESO)***
+######***DESENVOLVIMENTO ORIENTADO A OBJETO ***
+######***UTILIZANDO A LINGUAGEM PYTHON ➡️ FUNDAÇÃO BRADESCO (EM CONCLUSÃO)***
+######***HTML E CSS NA PRÁTICA ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
+######***HTML AVANÇADO ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
+######***INTRODUÇÃO AO JAVASCRIPT ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
 
 ##
 
