@@ -15,18 +15,6 @@
 
 ##
 
-🚧  ***CURSOS EM DESENVOLVIMENTO***  🚧
-
-###### • ***JAVA 2022 ➡️ UDEMY (EM PROGRESSO)***
-###### • ***PYTHON 2022 ➡️ UDEMY (EM PROGRESO)***
-###### • ***DESENVOLVIMENTO ORIENTADO A OBJETO***
-###### • ***UTILIZANDO A LINGUAGEM PYTHON ➡️ FUNDAÇÃO BRADESCO (EM CONCLUSÃO)***
-###### • ***HTML E CSS NA PRÁTICA ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
-###### • ***HTML AVANÇADO ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
-###### • ***INTRODUÇÃO AO JAVASCRIPT ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
-
-##
-
 <h3 align="left">Linguagens and Ferramentas:</h3>
 
 ![Badge](https://img.shields.io/badge/VB.NET-%237159c1?style=for-the-badge&logo=.NET&logoColor=white)
@@ -40,16 +28,28 @@
 
 ##
 
-<h3 align="left">REDES SOCIAIS:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joão vitor de jesus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor de jesus" height="30" width="40" /></a>
-<a href="https://instagram.com/joao.vitor.gbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.vitor.gbi" height="30" width="40" /></a>
-</p>
+🚧  ***CURSOS EM DESENVOLVIMENTO***  🚧
+
+###### • ***JAVA 2022 ➡️ UDEMY (EM PROGRESSO)***
+###### • ***PYTHON 2022 ➡️ UDEMY (EM PROGRESO)***
+###### • ***DESENVOLVIMENTO ORIENTADO A OBJETO***
+###### • ***UTILIZANDO A LINGUAGEM PYTHON ➡️ FUNDAÇÃO BRADESCO (EM CONCLUSÃO)***
+###### • ***HTML E CSS NA PRÁTICA ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
+###### • ***HTML AVANÇADO ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
+###### • ***INTRODUÇÃO AO JAVASCRIPT ➡️ FUNDAÇÃO BRADESCO (POR INICAR)***
+
 
 ##
 
 <a href="https://github.com/Joao-j"><img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-j&show_icons=true&theme=dark&include_all_commits=true&count_private=true"><img align="rigth" margin="0" width="50%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-j&theme=dark"> 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-j&layout=compact&langs_count=7&theme=dark" alt="joao-j" /></p>
-
+   
+##
+   
+ <h3 align="left">REDES SOCIAIS:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joão vitor de jesus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor de jesus" height="30" width="40" /></a>
+<a href="https://instagram.com/joao.vitor.gbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.vitor.gbi" height="30" width="40" /></a>
+</p>  
    
 ![Snake animation](https://github.com/Joao-j/Joao-j/blob/output/github-contribution-grid-snake.svg)
