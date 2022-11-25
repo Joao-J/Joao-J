@@ -1,7 +1,7 @@
 
 ![Sejam todos bem-vindos ao meu github](https://user-images.githubusercontent.com/118869806/203854108-0826d341-0512-4363-9782-39f74b8b6e9b.gif)
 ##
-<p align="left">  </p>
+<p align="left">  </p><img align="right" width="25%"  src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif">
 
 - 🌱 Estou aprendendo **Java, Python e C#**
 
