@@ -11,7 +11,7 @@
 
 - 📫 Meu email eletrônico [**gmail**](joaovitor19.gbi@gmail.com)
 
-- 📄 Minhas experiencias profissionais [aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus/)
+- 📄 Minhas experiencias profissionais [aqui](https://www.linkedin.com/in/joao-vitor-jesus/)
 
 ##
 
