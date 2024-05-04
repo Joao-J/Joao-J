@@ -30,6 +30,7 @@
 
 🚧  ***CURSOS EM DESENVOLVIMENTO***  🚧
 
+###### • ***PROGRAMAÇÃO DE JOGOS COM GODOT ➡️ DIO (EM PROGRESSO)***
 ###### • ***JAVA 2022 ➡️ UDEMY (EM PROGRESSO)***
 ###### • ***PYTHON 2022 ➡️ UDEMY (EM PROGRESO)***
 ###### • ***DESENVOLVIMENTO ORIENTADO A OBJETO***
