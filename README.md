@@ -54,4 +54,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-j&layout=compact&langs_count=7&theme=dark" alt="joao-j" /></p>
    
    
-![snake animation](https://github.com/Joao-J/Joao-J/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
